@@ -4,6 +4,6 @@ Repositorio para alojar el código de la aplicación a desarrollar en el Ciclo 3
 
 Integrantes:
 
-Germán Medina (Scrum Master)
-Felipe Perez
-David Toro
+* Germán Medina (Scrum Master)
+* Felipe Perez
+* David Toro
